@@ -4,9 +4,9 @@ Pour la gestion d’un parc animalier, voici une application traitant des animau
 
 Un parc animalier sera représenté par un tableau d’animaux. 
 
-• ParcAnimalier(int capacité) - constructeur qui crée un parc animalier ayant la capacité (nombre maximum d’animaux) indiquée, 
-• void afficherAnimaux() - affiche tous les animaux du parc animalier, 
-• Animal animal(int i) - renvoie le ième animal, 
-• boolean ajouter(Animal anim) - ajoute l’animal indiqué et renvoie true (false en cas d’échec),
-• boolean supprimer(Animal anim) - supprime l’animal indiqué et renvoie true (false en cas d’échec)
-• void afficherTaille() - affiche la liste des tailles de tous les animaux qui ont une taille 
+• ParcAnimalier(int capacité) - constructeur qui crée un parc animalier ayant la capacité (nombre maximum d’animaux) indiquée,  <br/>
+• void afficherAnimaux() - affiche tous les animaux du parc animalier, <br/>
+• Animal animal(int i) - renvoie le ième animal, <br/>
+• boolean ajouter(Animal anim) - ajoute l’animal indiqué et renvoie true (false en cas d’échec),<br/>
+• boolean supprimer(Animal anim) - supprime l’animal indiqué et renvoie true (false en cas d’échec),<br/>
+• void afficherTaille() - affiche la liste des tailles de tous les animaux qui ont une taille <br/>
