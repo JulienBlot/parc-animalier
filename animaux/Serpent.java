@@ -1,5 +1,3 @@
-//Julien Blot
-
 package animaux;
 
 public class Serpent extends Reptile {
